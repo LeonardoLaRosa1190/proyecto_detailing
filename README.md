@@ -30,7 +30,7 @@ FIREBASE_AUTH_PROVIDER_X509_CERT_URL=tu_auth_provider_cert_url
 FIREBASE_CLIENT_X509_CERT_URL=tu_client_cert_url
 FIREBASE_UNIVERSE_DOMAIN=tu_universe_domain
 ```
-
+Claro aca esta
 ### Deployment Manual (Vercel Dashboard)
 
 1. Ve a [Vercel Dashboard](https://vercel.com/dashboard)
